@@ -2,7 +2,7 @@
   {
     "section":"high-school",
     "thumb":"images/placeholder400x267.png",
-    "full":"https://sasorensen.github.io/portfolio/images/placeholder1200x800.png?text=HS+Full+1",
+    "full":"images/placeholder1200x800.png",
     "title":"High School Project - Photography",
     "resource":"resources/high-school-lesson-1.pdf",
     "resourceLabel":"Open lesson plan (PDF)"
@@ -10,7 +10,7 @@
   {
     "section":"high-school",
     "thumb":"images/placeholder400x267.png",
-    "full":"https://sasorensen.github.io/portfolio/images/placeholder1200x800.png",
+    "full":"images/placeholder1200x800.png",
     "title":"High School Student Work - Video project"
   },
   {
@@ -23,13 +23,13 @@
   {
     "section":"elementary",
     "thumb":"images/placeholder400x267.png",
-    "full":"https://sasorensen.github.io/portfolio/images/placeholder1200x800.png",
+    "full":"images/placeholder1200x800.png",
     "title":"Student Work - Science"
   },
   {
     "section":"personal",
-    "thumb":"https://sasorensen.github.io/portfolio/images/placeholder400x260.png",
-    "full":"https://sasorensen.github.io/portfolio/images/placeholder1200x800.png",
+    "thumb":"images/placeholder400x267.png",
+    "full":"images/placeholder1200x800.png",
     "title":"Personal Project - Illustrations"
   }
 ]
