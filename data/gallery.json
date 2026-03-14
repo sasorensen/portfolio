@@ -9,21 +9,21 @@
   },
   {
     "section":"high-school",
-    "thumb":"../images/placeholder400x260.png?text=HS+Thumb+2",
-    "full":"../images/placeholder1200x800.png?text=HS+Full+2",
+    "thumb":"images/placeholder400x260.png?text=HS+Thumb+2",
+    "full":"images/placeholder1200x800.png?text=HS+Full+2",
     "title":"High School Student Work - Video project"
   },
   {
     "section":"elementary",
-    "thumb":"/images/placeholder400x260.png?text=Elem+Thumb+1",
-    "full":"/images/placeholder1200x800.png?text=Elem+Full+1",
+    "thumb":"images/placeholder400x260.png?text=Elem+Thumb+1",
+    "full":"images/placeholder1200x800.png?text=Elem+Full+1",
     "title":"Elementary Lesson - Art Collage",
     "resource":"resources/elementary-lesson-1.pdf"
   },
   {
     "section":"elementary",
-    "thumb":"./images/placeholder400x260.png?text=Elem+Thumb+2",
-    "full":"./images/placeholder1200x800.png?text=Elem+Full+2",
+    "thumb":"https://sasorensen.github.io/portfolio/images/placeholder400x260.png?text=Elem+Thumb+2",
+    "full":"https://sasorensen.github.io/portfolio/images/placeholder1200x800.png?text=Elem+Full+2",
     "title":"Student Work - Science"
   },
   {
