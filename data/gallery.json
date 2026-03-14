@@ -2,34 +2,34 @@
   {
     "section":"high-school",
     "thumb":"https://sasorensen.github.io/portfolio/images/placeholder400x267.png?text=HS+Thumb+1",
-    "full":"https://sasorensen.github.io/portfolio/images/placeholder1200x800?text=HS+Full+1",
-    "title":"High School Project — Photography",
+    "full":"https://sasorensen.github.io/portfolio/images/placeholder1200x800.png?text=HS+Full+1",
+    "title":"High School Project - Photography",
     "resource":"resources/high-school-lesson-1.pdf",
     "resourceLabel":"Open lesson plan (PDF)"
   },
   {
     "section":"high-school",
-    "thumb":"../images/placeholder400x260?text=HS+Thumb+2",
-    "full":"../images/placeholder1200x800?text=HS+Full+2",
-    "title":"High School Student Work — Video project"
+    "thumb":"../images/placeholder400x260.png?text=HS+Thumb+2",
+    "full":"../images/placeholder1200x800.png?text=HS+Full+2",
+    "title":"High School Student Work - Video project"
   },
   {
     "section":"elementary",
-    "thumb":"/images/placeholder400x260?text=Elem+Thumb+1",
-    "full":"/images/placeholder1200x800?text=Elem+Full+1",
-    "title":"Elementary Lesson — Art Collage",
+    "thumb":"/images/placeholder400x260.png?text=Elem+Thumb+1",
+    "full":"/images/placeholder1200x800.png?text=Elem+Full+1",
+    "title":"Elementary Lesson - Art Collage",
     "resource":"resources/elementary-lesson-1.pdf"
   },
   {
     "section":"elementary",
-    "thumb":"./images/placeholder400x260?text=Elem+Thumb+2",
-    "full":"./images/placeholder1200x800?text=Elem+Full+2",
-    "title":"Student Work — Science"
+    "thumb":"./images/placeholder400x260.png?text=Elem+Thumb+2",
+    "full":"./images/placeholder1200x800.png?text=Elem+Full+2",
+    "title":"Student Work - Science"
   },
   {
     "section":"personal",
-    "thumb":"https://sasorensen.github.io/portfolio/images/placeholder400x260?text=Personal+Thumb+1",
-    "full":"https://sasorensen.github.io/portfolio/images/placeholder1200x800?text=Personal+Full+1",
-    "title":"Personal Project — Illustrations"
+    "thumb":"https://sasorensen.github.io/portfolio/images/placeholder400x260.png?text=Personal+Thumb+1",
+    "full":"https://sasorensen.github.io/portfolio/images/placeholder1200x800.png?text=Personal+Full+1",
+    "title":"Personal Project - Illustrations"
   }
 ]
