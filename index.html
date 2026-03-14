@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="banner">
+    <div class="banner-left">
+      <img id="profile-photo" src="assets/profile.jpg" alt="Profile photo">
+    </div>
+    <div class="banner-center">
+      <h1 id="owner-name">Your Name</h1>
+    </div>
+    <div class="banner-right">
+      <nav id="toc">
+        <ul>
+          <li><a href="#high-school">High School</a></li>
+          <li><a href="#elementary">Elementary</a></li>
+          <li><a href="#personal">Personal Work</a></li>
+          <li><a href="#bio">Bio</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="high-school" class="gallery-section">
+      <h2>High School — Work & Lesson Plans</h2>
+      <div class="gallery-grid" data-section="high-school" aria-live="polite"></div>
+    </section>
+
+    <section id="elementary" class="gallery-section">
+      <h2>Elementary — Work & Lesson Plans</h2>
+      <div class="gallery-grid" data-section="elementary"></div>
+    </section>
+
+    <section id="personal" class="gallery-section">
+      <h2>Personal Work</h2>
+      <div class="gallery-grid" data-section="personal"></div>
+    </section>
+
+    <section id="bio" class="bio-section">
+      <h2>About</h2>
+      <p id="bio-text">Short bio about you. Replace this text with your own biography. Include your teaching specialities, years of experience, contact info, or a link to download a CV.</p>
+    </section>
+  </main>
+
+  <!-- Lightbox -->
+  <div id="lightbox" class="lightbox" aria-hidden="true" role="dialog" aria-modal="true">
+    <button class="close" aria-label="Close">&times;</button>
+    <img class="lightbox-image" alt="">
+    <div class="lightbox-caption">
+      <p class="title"></p>
+      <a class="open-resource" target="_blank" rel="noopener">Open resource</a>
+    </div>
+    <button class="prev" aria-label="Previous">&lt;</button>
+    <button class="next" aria-label="Next">&gt;</button>
+  </div>
+
+  <script type="module" src="js/gallery.js"></script>
+</body>
+</html>
