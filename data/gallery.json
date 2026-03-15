@@ -1,22 +1,22 @@
 [
   {
     "section":"high-school",
-    "thumb":"images/oranges_400x267.png",
-    "full":"images/oranges_1200x800.png",
+    "thumb":"images/oranges_400x267.jpg",
+    "full":"images/oranges_1200x800.jpg",
     "title":"High School Project - Photography",
     "resource":"resources/sample-lesson-plan.pdf",
     "resourceLabel":"Open lesson plan (PDF)"
   },
   {
     "section":"high-school",
-    "thumb":"images/soaring_400x267.png",
-    "full":"images/soaring_1200x800.png",
+    "thumb":"images/soaring_400x267.jpg",
+    "full":"images/soaring_1200x800.jpg",
     "title":"High School Student Work - Video project"
   },
   {
     "section":"high-school",
-    "thumb":"images/vertical_400x267.png",
-    "full":"images/vertical_1200x800.png",
+    "thumb":"images/vertical_400x267.jpg",
+    "full":"images/vertical_1200x800.jpg",
     "title":"High School Project - Wire Figures"
   },
   {
@@ -35,14 +35,14 @@
   },
   {
     "section":"elementary",
-    "thumb":"images/soaring_400x267.png",
-    "full":"images/soaring_1200x800.png",
+    "thumb":"images/soaring_400x267.jpg",
+    "full":"images/soaring_1200x800.jpg",
     "title":"Student Work - Science"
   },
   {
     "section":"personal",
-    "thumb":"images/oranges_400x267.png",
-    "full":"images/oranges_1200x800.png",
+    "thumb":"images/oranges_400x267.jpg",
+    "full":"images/oranges_1200x800.jpg",
     "title":"Personal Project - Illustrations"
   }
 ]
