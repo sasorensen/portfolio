@@ -9,9 +9,21 @@
   },
   {
     "section":"high-school",
+    "thumb":"images/placeholder-b400x267.png",
+    "full":"images/placeholder-b1200x800.png",
+    "title":"High School Student Work - Video project"
+  },
+  {
+    "section":"high-school",
     "thumb":"images/placeholder400x267.png",
     "full":"images/placeholder1200x800.png",
-    "title":"High School Student Work - Video project"
+    "title":"High School Project - Wire Figures"
+  },
+  {
+    "section":"high-school",
+    "thumb":"images/placeholder-b400x267.png",
+    "full":"images/placeholder-b1200x800.png",
+    "title":"High School Student Work - Ceramics"
   },
   {
     "section":"elementary",
