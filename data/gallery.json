@@ -9,13 +9,13 @@
   },
   {
     "section":"high-school",
-    "thumb":"images/soaring_400x267.jpg",
-    "full":"images/soaring_1200x800.jpg",
+    "thumb":"images/soaring_400x267_cropped.jpg",
+    "full":"images/soaring_1200x800_cropped.jpg",
     "title":"High School Student Work - Video project"
   },
   {
     "section":"high-school",
-    "thumb":"images/vertical_400x267.jpg",
+    "thumb":"images/vertical_400x267_cropped.jpg",
     "full":"images/vertical_1200x800.jpg",
     "title":"High School Project - Wire Figures"
   },
@@ -35,8 +35,8 @@
   },
   {
     "section":"elementary",
-    "thumb":"images/soaring_400x267.jpg",
-    "full":"images/soaring_1200x800.jpg",
+    "thumb":"images/soaring_400_croppedx267.jpg",
+    "full":"images/soaring_1200x800_cropped.jpg",
     "title":"Student Work - Science"
   },
   {
