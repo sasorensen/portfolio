@@ -1,34 +1,34 @@
 [
   {
     "section":"high-school",
-    "thumb":"images/placeholder400x267.png",
-    "full":"images/placeholder1200x800.png",
+    "thumb":"images/oranges400x267.png",
+    "full":"images/oranges1200x800.png",
     "title":"High School Project - Photography",
     "resource":"resources/sample-lesson-plan.pdf",
     "resourceLabel":"Open lesson plan (PDF)"
   },
   {
     "section":"high-school",
-    "thumb":"images/placeholder-b400x267.png",
-    "full":"images/placeholder-b1200x800.png",
+    "thumb":"images/soaring400x267.png",
+    "full":"images/soaring1200x800.png",
     "title":"High School Student Work - Video project"
   },
   {
     "section":"high-school",
-    "thumb":"images/placeholder400x267.png",
-    "full":"images/placeholder1200x800.png",
+    "thumb":"images/vertical400x267.png",
+    "full":"images/vertical1200x800.png",
     "title":"High School Project - Wire Figures"
   },
   {
     "section":"high-school",
-    "thumb":"images/placeholder-b400x267.png",
-    "full":"images/placeholder-b1200x800.png",
+    "thumb":"images/homemade400x267.png",
+    "full":"images/homemade1200x800.png",
     "title":"High School Student Work - Ceramics"
   },
   {
     "section":"elementary",
-    "thumb":"images/placeholder400x267.png",
-    "full":"images/placeholder1200x800.png",
+    "thumb":"images/homemade-colors400x267.png",
+    "full":"images/homemade-colors1200x800.png",
     "title":"Elementary Lesson - Art Collage",
     "resource":"resources/sample-lesson-plan.pdf"
 	"resourceLabel":"Open lesson plan (PDF)"
