@@ -4,7 +4,7 @@
     "thumb":"images/placeholder400x267.png",
     "full":"images/placeholder1200x800.png",
     "title":"High School Project - Photography",
-    "resource":"resources/high-school-lesson-1.pdf",
+    "resource":"resources/sample-lesson-plan.pdf",
     "resourceLabel":"Open lesson plan (PDF)"
   },
   {
@@ -30,7 +30,7 @@
     "thumb":"images/placeholder400x267.png",
     "full":"images/placeholder1200x800.png",
     "title":"Elementary Lesson - Art Collage",
-    "resource":"resources/elementary-lesson-1.pdf"
+    "resource":"resources/sample-lesson-plan.pdf"
   },
   {
     "section":"elementary",
