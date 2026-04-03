@@ -27,6 +27,12 @@
   },
   {
     "section":"elementary",
+    "thumb":"images/mondrian_400x267_cropped.png",
+    "full":"images/modrian_1200x800_cropped.png",
+    "title":"Mondrian Style Collage"
+  },
+  {
+    "section":"elementary",
     "thumb":"images/homemade-colors_400x267.png",
     "full":"images/homemade-colors_1200x800.png",
     "title":"Elementary Lesson - Art Collage",
