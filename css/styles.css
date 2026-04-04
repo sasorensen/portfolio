@@ -22,7 +22,7 @@ body{display:flex;flex-direction:column;align-items:center;padding:20px}
   margin-bottom:20px;
   background-image: url('../images/alice-banner.jpg'); /* Adjust the file path as needed */
   height: 400px;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
