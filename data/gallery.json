@@ -661,18 +661,6 @@
   },
   {
     "section": "Highlights",
-    "full": "images/Highlights/155_900x1200.jpg",
-    "thumb": "images/Highlights/155_300x400.jpg",
-    "title": ""
-  },
-  {
-    "section": "Highlights",
-    "full": "images/Highlights/157_900x1200.jpg",
-    "thumb": "images/Highlights/157_300x400.jpg",
-    "title": ""
-  },
-  {
-    "section": "Highlights",
     "full": "images/Highlights/160_900x1200.jpg",
     "thumb": "images/Highlights/160_300x400.jpg",
     "title": ""
@@ -709,18 +697,6 @@
   },
   {
     "section": "Highlights",
-    "full": "images/Highlights/190_1200x900.jpg",
-    "thumb": "images/Highlights/190_400x300.jpg",
-    "title": ""
-  },
-  {
-    "section": "Highlights",
-    "full": "images/Highlights/194_900x1200.jpg",
-    "thumb": "images/Highlights/194_300x400.jpg",
-    "title": ""
-  },
-  {
-    "section": "Highlights",
     "full": "images/Highlights/199_900x1200.jpg",
     "thumb": "images/Highlights/199_300x400.jpg",
     "title": ""
@@ -733,8 +709,14 @@
   },
   {
     "section": "Highlights",
-    "full": "images/Highlights/214_900x1200.jpg",
-    "thumb": "images/Highlights/214_300x400.jpg",
+    "full": "images/Highlights/214_1200x900.jpg",
+    "thumb": "images/Highlights/214_400x300.jpg",
+    "title": ""
+  },
+  {
+    "section": "Highlights",
+    "full": "images/Highlights/217_900x1200.jpg",
+    "thumb": "images/Highlights/217_300x400.jpg",
     "title": ""
   },
   {
@@ -837,6 +819,18 @@
     "section": "Highlights",
     "full": "images/Highlights/650_900x1200.jpg",
     "thumb": "images/Highlights/650_300x400.jpg",
+    "title": ""
+  },
+  {
+    "section": "Highlights",
+    "full": "images/Highlights/90_1200x900.jpg",
+    "thumb": "images/Highlights/90_400x300.jpg",
+    "title": ""
+  },
+  {
+    "section": "Highlights",
+    "full": "images/Highlights/94_1200x900.jpg",
+    "thumb": "images/Highlights/94_400x300.jpg",
     "title": ""
   },
   {
